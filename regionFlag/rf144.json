@@ -1,0 +1,962 @@
+{
+  "name": "世界各地区旗帜 icon",
+  "description": "搜索要输入英文全名，例如China",
+  "icons": [
+    {
+      "name": "northern_cyprus",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/northern_cyprus_flag.png"
+    },
+    {
+      "name": "bulgaria",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/bulgaria_flag.png"
+    },
+    {
+      "name": "macao",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/macao_flag.png"
+    },
+    {
+      "name": "ireland",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/ireland_flag.png"
+    },
+    {
+      "name": "gabon",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/gabon_flag.png"
+    },
+    {
+      "name": "vanuatu",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/vanuatu_flag.png"
+    },
+    {
+      "name": "czech_republic",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/czech_republic_flag.png"
+    },
+    {
+      "name": "northern_ireland",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/northern_ireland_flag.png"
+    },
+    {
+      "name": "maldives",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/maldives_flag.png"
+    },
+    {
+      "name": "egypt",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/egypt_flag.png"
+    },
+    {
+      "name": "red_cross",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/red_cross_flag.png"
+    },
+    {
+      "name": "eritrea",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/eritrea_flag.png"
+    },
+    {
+      "name": "falkland_islands",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/falkland_islands_flag.png"
+    },
+    {
+      "name": "seychelles",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/seychelles_flag.png"
+    },
+    {
+      "name": "palestine",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/palestine_flag.png"
+    },
+    {
+      "name": "north_korea",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/north_korea_flag.png"
+    },
+    {
+      "name": "iceland",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/iceland_flag.png"
+    },
+    {
+      "name": "lugansk_peoples_republic",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/lugansk_peoples_republic_flag.png"
+    },
+    {
+      "name": "republic_of_the_congo",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/republic_of_the_congo_flag.png"
+    },
+    {
+      "name": "ethiopia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/ethiopia_flag.png"
+    },
+    {
+      "name": "luxembourg",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/luxembourg_flag.png"
+    },
+    {
+      "name": "puerto_rico",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/puerto_rico_flag.png"
+    },
+    {
+      "name": "japan",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/japan_flag.png"
+    },
+    {
+      "name": "south_sudan",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/south_sudan_flag.png"
+    },
+    {
+      "name": "bosnia_and_herzegovina",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/bosnia_and_herzegovina_flag.png"
+    },
+    {
+      "name": "tonga",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/tonga_flag.png"
+    },
+    {
+      "name": "namibia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/namibia_flag.png"
+    },
+    {
+      "name": "trinidad_and_tobago",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/trinidad_and_tobago_flag.png"
+    },
+    {
+      "name": "finland",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/finland_flag.png"
+    },
+    {
+      "name": "nauru",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/nauru_flag.png"
+    },
+    {
+      "name": "tatarstan",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/tatarstan_flag.png"
+    },
+    {
+      "name": "nigeria",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/nigeria_flag.png"
+    },
+    {
+      "name": "laos",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/laos_flag.png"
+    },
+    {
+      "name": "djibouti",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/djibouti_flag.png"
+    },
+    {
+      "name": "kazakhstan",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/kazakhstan_flag.png"
+    },
+    {
+      "name": "pakistan",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/pakistan_flag.png"
+    },
+    {
+      "name": "lebanon",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/lebanon_flag.png"
+    },
+    {
+      "name": "easter_island",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/easter_island_flag.png"
+    },
+    {
+      "name": "republic_of_karelia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/republic_of_karelia_flag.png"
+    },
+    {
+      "name": "denmark",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/denmark_flag.png"
+    },
+    {
+      "name": "tanzania",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/tanzania_flag.png"
+    },
+    {
+      "name": "zimbabwe",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/zimbabwe_flag.png"
+    },
+    {
+      "name": "bahrain",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/bahrain_flag.png"
+    },
+    {
+      "name": "vatican_city",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/vatican_city_flag.png"
+    },
+    {
+      "name": "vietnam",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/vietnam_flag.png"
+    },
+    {
+      "name": "kuwait",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/kuwait_flag.png"
+    },
+    {
+      "name": "palau",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/palau_flag.png"
+    },
+    {
+      "name": "ei_salvador",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/ei_salvador_flag.png"
+    },
+    {
+      "name": "saint_kitts_and_nevis",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/saint_kitts_and_nevis_flag.png"
+    },
+    {
+      "name": "jordan",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/jordan_flag.png"
+    },
+    {
+      "name": "cape_verde",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/cape_verde_flag.png"
+    },
+    {
+      "name": "bolivia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/bolivia_flag.png"
+    },
+    {
+      "name": "argentina",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/argentina_flag.png"
+    },
+    {
+      "name": "guyana",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/guyana_flag.png"
+    },
+    {
+      "name": "brunei",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/brunei_flag.png"
+    },
+    {
+      "name": "san_marino",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/san_marino_flag.png"
+    },
+    {
+      "name": "georgia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/georgia_flag.png"
+    },
+    {
+      "name": "sovereign_military_order_of_malta",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/sovereign_military_order_of_malta_flag.png"
+    },
+    {
+      "name": "honduras",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/honduras_flag.png"
+    },
+    {
+      "name": "burkina_faso",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/burkina_faso_flag.png"
+    },
+    {
+      "name": "grenada",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/grenada_flag.png"
+    },
+    {
+      "name": "cuba",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/cuba_flag.png"
+    },
+    {
+      "name": "togo",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/togo_flag.png"
+    },
+    {
+      "name": "federated_states_of_micronesia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/federated_states_of_micronesia_flag.png"
+    },
+    {
+      "name": "european_union",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/european_union_flag.png"
+    },
+    {
+      "name": "macedonia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/macedonia_flag.png"
+    },
+    {
+      "name": "cambodia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/cambodia_flag.png"
+    },
+    {
+      "name": "antarctica",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/antarctica_flag.png"
+    },
+    {
+      "name": "gambia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/gambia_flag.png"
+    },
+    {
+      "name": "guatemala",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/guatemala_flag.png"
+    },
+    {
+      "name": "scotland",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/scotland_flag.png"
+    },
+    {
+      "name": "iran",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/iran_flag.png"
+    },
+    {
+      "name": "costa_rica",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/costa_rica_flag.png"
+    },
+    {
+      "name": "peru",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/peru_flag.png"
+    },
+    {
+      "name": "saudi_arabia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/saudi_arabia_flag.png"
+    },
+    {
+      "name": "germany",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/germany_flag.png"
+    },
+    {
+      "name": "aruba",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/aruba_flag.png"
+    },
+    {
+      "name": "turkey",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/turkey_flag.png"
+    },
+    {
+      "name": "morocco",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/morocco_flag.png"
+    },
+    {
+      "name": "equatorial_guinea",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/equatorial_guinea_flag.png"
+    },
+    {
+      "name": "swaziland",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/swaziland_flag.png"
+    },
+    {
+      "name": "azerbaijan",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/azerbaijan_flag.png"
+    },
+    {
+      "name": "kosovo",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/kosovo_flag.png"
+    },
+    {
+      "name": "slovenia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/slovenia_flag.png"
+    },
+    {
+      "name": "papua_new_guinea",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/papua_new_guinea_flag.png"
+    },
+    {
+      "name": "armenia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/armenia_flag.png"
+    },
+    {
+      "name": "dominican_republic",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/dominican_republic_flag.png"
+    },
+    {
+      "name": "serbia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/serbia_flag.png"
+    },
+    {
+      "name": "jamaica",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/jamaica_flag.png"
+    },
+    {
+      "name": "donetsk_peoples_republic",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/donetsk_peoples_republic_flag.png"
+    },
+    {
+      "name": "mauritius",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/mauritius_flag.png"
+    },
+    {
+      "name": "spain",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/spain_flag.png"
+    },
+    {
+      "name": "iraq",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/iraq_flag.png"
+    },
+    {
+      "name": "fiji",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/fiji_flag.png"
+    },
+    {
+      "name": "gibraltar",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/gibraltar_flag.png"
+    },
+    {
+      "name": "rwanda",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/rwanda_flag.png"
+    },
+    {
+      "name": "kenya",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/kenya_flag.png"
+    },
+    {
+      "name": "greece",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/greece_flag.png"
+    },
+    {
+      "name": "italy",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/italy_flag.png"
+    },
+    {
+      "name": "australia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/australia_flag.png"
+    },
+    {
+      "name": "myanmar",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/myanmar_flag.png"
+    },
+    {
+      "name": "brazil",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/brazil_flag.png"
+    },
+    {
+      "name": "new_zealand",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/new_zealand_flag.png"
+    },
+    {
+      "name": "tuvalu",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/tuvalu_flag.png"
+    },
+    {
+      "name": "andorra",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/andorra_flag.png"
+    },
+    {
+      "name": "south_korea",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/south_korea_flag.png"
+    },
+    {
+      "name": "solomon_islands",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/solomon_islands_flag.png"
+    },
+    {
+      "name": "ghana",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/ghana_flag.png"
+    },
+    {
+      "name": "guinea",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/guinea_flag.png"
+    },
+    {
+      "name": "ukraine",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/ukraine_flag.png"
+    },
+    {
+      "name": "lesotho",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/lesotho_flag.png"
+    },
+    {
+      "name": "estonia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/estonia_flag.png"
+    },
+    {
+      "name": "cyprus",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/cyprus_flag.png"
+    },
+    {
+      "name": "angola",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/angola_flag.png"
+    },
+    {
+      "name": "lithuania",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/lithuania_flag.png"
+    },
+    {
+      "name": "wales",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/wales_flag.png"
+    },
+    {
+      "name": "british_indian_ocean_territory",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/british_indian_ocean_territory_flag.png"
+    },
+    {
+      "name": "israel",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/israel_flag.png"
+    },
+    {
+      "name": "netherland",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/netherland_flag.png"
+    },
+    {
+      "name": "north_ossetia-alania",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/north_ossetia-alania_flag.png"
+    },
+    {
+      "name": "china",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/china_flag.png"
+    },
+    {
+      "name": "curacao",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/curacao_flag.png"
+    },
+    {
+      "name": "greenland",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/greenland_flag.png"
+    },
+    {
+      "name": "malta",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/malta_flag.png"
+    },
+    {
+      "name": "yemen",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/yemen_flag.png"
+    },
+    {
+      "name": "abkhazia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/abkhazia_flag.png"
+    },
+    {
+      "name": "kyrgyzstan",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/kyrgyzstan_flag.png"
+    },
+    {
+      "name": "suriname",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/suriname_flag.png"
+    },
+    {
+      "name": "south_ossetia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/south_ossetia_flag.png"
+    },
+    {
+      "name": "mauritania",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/mauritania_flag.png"
+    },
+    {
+      "name": "tunisia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/tunisia_flag.png"
+    },
+    {
+      "name": "sudan",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/sudan_flag.png"
+    },
+    {
+      "name": "malaysia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/malaysia_flag.png"
+    },
+    {
+      "name": "somaliland",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/somaliland_flag.png"
+    },
+    {
+      "name": "uzbekistan",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/uzbekistan_flag.png"
+    },
+    {
+      "name": "syria",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/syria_flag.png"
+    },
+    {
+      "name": "panama",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/panama_flag.png"
+    },
+    {
+      "name": "botswana",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/botswana_flag.png"
+    },
+    {
+      "name": "sri_lanka",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/sri_lanka_flag.png"
+    },
+    {
+      "name": "thailand",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/thailand_flag.png"
+    },
+    {
+      "name": "venezuela",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/venezuela_flag.png"
+    },
+    {
+      "name": "republika_srpska",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/republika_srpska_flag.png"
+    },
+    {
+      "name": "mali",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/mali_flag.png"
+    },
+    {
+      "name": "romania",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/romania_flag.png"
+    },
+    {
+      "name": "chad",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/chad_flag.png"
+    },
+    {
+      "name": "portugal",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/portugal_flag.png"
+    },
+    {
+      "name": "hong_kong",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/hong_kong_flag.png"
+    },
+    {
+      "name": "hungary",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/hungary_flag.png"
+    },
+    {
+      "name": "belgium",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/belgium_flag.png"
+    },
+    {
+      "name": "senegal",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/senegal_flag.png"
+    },
+    {
+      "name": "monaco",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/monaco_flag.png"
+    },
+    {
+      "name": "emblem_of_crimea",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/emblem_of_crimea_flag.png"
+    },
+    {
+      "name": "oman",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/oman_flag.png"
+    },
+    {
+      "name": "ecuador",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/ecuador_flag.png"
+    },
+    {
+      "name": "liberia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/liberia_flag.png"
+    },
+    {
+      "name": "united_kingdom",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/united_kingdom_flag.png"
+    },
+    {
+      "name": "american_samoa",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/american_samoa_flag.png"
+    },
+    {
+      "name": "kiribati",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/kiribati_flag.png"
+    },
+    {
+      "name": "cook_islands",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/cook_islands_flag.png"
+    },
+    {
+      "name": "united_states_of_america",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/united_states_of_america_flag.png"
+    },
+    {
+      "name": "democratic_kampuchea",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/democratic_kampuchea_flag.png"
+    },
+    {
+      "name": "marshall_islands",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/marshall_islands_flag.png"
+    },
+    {
+      "name": "central_african",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/central_african_flag.png"
+    },
+    {
+      "name": "hercegovine",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/hercegovine_flag.png"
+    },
+    {
+      "name": "cameroon",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/cameroon_flag.png"
+    },
+    {
+      "name": "christmas_island",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/christmas_island_flag.png"
+    },
+    {
+      "name": "faroe_islands",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/faroe_islands_flag.png"
+    },
+    {
+      "name": "madagascar",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/madagascar_flag.png"
+    },
+    {
+      "name": "france",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/france_flag.png"
+    },
+    {
+      "name": "somalia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/somalia_flag.png"
+    },
+    {
+      "name": "mozambique",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/mozambique_flag.png"
+    },
+    {
+      "name": "niue",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/niue_flag.png"
+    },
+    {
+      "name": "poland",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/poland_flag.png"
+    },
+    {
+      "name": "saint_lucia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/saint_lucia_flag.png"
+    },
+    {
+      "name": "dominica",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/dominica_flag.png"
+    },
+    {
+      "name": "norway",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/norway_flag.png"
+    },
+    {
+      "name": "chile",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/chile_flag.png"
+    },
+    {
+      "name": "austria",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/austria_flag.png"
+    },
+    {
+      "name": "transnistria",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/transnistria_flag.png"
+    },
+    {
+      "name": "philippines",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/philippines_flag.png"
+    },
+    {
+      "name": "east_timor",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/east_timor_flag.png"
+    },
+    {
+      "name": "nagorno-karabakh",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/nagorno-karabakh_flag.png"
+    },
+    {
+      "name": "moldova",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/moldova_flag.png"
+    },
+    {
+      "name": "barbados",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/barbados_flag.png"
+    },
+    {
+      "name": "algeria",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/algeria_flag.png"
+    },
+    {
+      "name": "singapore",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/singapore_flag.png"
+    },
+    {
+      "name": "nicaragua",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/nicaragua_flag.png"
+    },
+    {
+      "name": "aland_islands",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/aland_islands_flag.png"
+    },
+    {
+      "name": "uruguay",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/uruguay_flag.png"
+    },
+    {
+      "name": "switzerland",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/switzerland_flag.png"
+    },
+    {
+      "name": "antigua_and_barbuda",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/antigua_and_barbuda_flag.png"
+    },
+    {
+      "name": "canada",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/canada_flag.png"
+    },
+    {
+      "name": "qatar",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/qatar_flag.png"
+    },
+    {
+      "name": "india",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/india_flag.png"
+    },
+    {
+      "name": "saint_vincent_and_the_grenadines",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/saint_vincent_and_the_grenadines_flag.png"
+    },
+    {
+      "name": "united_nations",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/united_nations_flag.png"
+    },
+    {
+      "name": "uganda",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/uganda_flag.png"
+    },
+    {
+      "name": "bahamas",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/bahamas_flag.png"
+    },
+    {
+      "name": "democratic_republic_of_the_congo",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/democratic_republic_of_the_congo_flag.png"
+    },
+    {
+      "name": "liechtenstein",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/liechtenstein_flag.png"
+    },
+    {
+      "name": "samoa",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/samoa_flag.png"
+    },
+    {
+      "name": "afghanistan",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/afghanistan_flag.png"
+    },
+    {
+      "name": "tajikistan",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/tajikistan_flag.png"
+    },
+    {
+      "name": "niger",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/niger_flag.png"
+    },
+    {
+      "name": "sao_tome_and_principe",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/sao_tome_and_principe_flag.png"
+    },
+    {
+      "name": "croatia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/croatia_flag.png"
+    },
+    {
+      "name": "south_africa",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/south_africa_flag.png"
+    },
+    {
+      "name": "taiwan",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/taiwan_flag.png"
+    },
+    {
+      "name": "united_arab_emirates",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/united_arab_emirates_flag.png"
+    },
+    {
+      "name": "latvia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/latvia_flag.png"
+    },
+    {
+      "name": "ivory_coast",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/ivory_coast_flag.png"
+    },
+    {
+      "name": "bangladesh",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/bangladesh_flag.png"
+    },
+    {
+      "name": "bhutan",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/bhutan_flag.png"
+    },
+    {
+      "name": "burundi",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/burundi_flag.png"
+    },
+    {
+      "name": "england",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/england_flag.png"
+    },
+    {
+      "name": "sweden",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/sweden_flag.png"
+    },
+    {
+      "name": "guinea-bissau",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/guinea-bissau_flag.png"
+    },
+    {
+      "name": "montenegro",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/montenegro_flag.png"
+    },
+    {
+      "name": "comoros",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/comoros_flag.png"
+    },
+    {
+      "name": "slovakia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/slovakia_flag.png"
+    },
+    {
+      "name": "haiti",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/haiti_flag.png"
+    },
+    {
+      "name": "malawi",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/malawi_flag.png"
+    },
+    {
+      "name": "nepal",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/nepal_flag.png"
+    },
+    {
+      "name": "zambia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/zambia_flag.png"
+    },
+    {
+      "name": "russia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/russia_flag.png"
+    },
+    {
+      "name": "sierra_leone",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/sierra_leone_flag.png"
+    },
+    {
+      "name": "indonesia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/indonesia_flag.png"
+    },
+    {
+      "name": "benin",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/benin_flag.png"
+    },
+    {
+      "name": "mexico",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/mexico_flag.png"
+    },
+    {
+      "name": "french_polynesia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/french_polynesia_flag.png"
+    },
+    {
+      "name": "libya",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/libya_flag.png"
+    },
+    {
+      "name": "sahrawi_arab_democratic_republic",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/sahrawi_arab_democratic_republic_flag.png"
+    },
+    {
+      "name": "turkmenistan",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/turkmenistan_flag.png"
+    },
+    {
+      "name": "colombia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/colombia_flag.png"
+    },
+    {
+      "name": "belarus",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/belarus_flag.png"
+    },
+    {
+      "name": "paraguay",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/paraguay_flag.png"
+    },
+    {
+      "name": "belize",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/belize_flag.png"
+    },
+    {
+      "name": "mongolia",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/mongolia_flag.png"
+    },
+    {
+      "name": "albania",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/regionFlag/rf144/albania_flag.png"
+    }
+  ]
+}
