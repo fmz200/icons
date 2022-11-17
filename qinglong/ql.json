@@ -1,0 +1,14 @@
+{
+  "name": "青龙 icon",
+  "description": "create by fmz200",
+  "icons": [
+    {
+      "name": "ql144",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/qinglong/ql144/ql.png"
+    },
+    {
+      "name": "ql108",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/qinglong/px108/ql_logo.png"
+    }
+  ]
+}
