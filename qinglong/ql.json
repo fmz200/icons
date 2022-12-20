@@ -3,12 +3,12 @@
   "description": "create by fmz200",
   "icons": [
     {
-      "name": "ql144",
-      "url": "https://raw.githubusercontent.com/fmz200/icons/master/qinglong/ql144/ql.png"
+      "name": "ql",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/qinglong/ql.png"
     },
     {
-      "name": "ql108",
-      "url": "https://raw.githubusercontent.com/fmz200/icons/master/qinglong/px108/ql_logo.png"
+      "name": "ql_logo",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/qinglong/ql_logo.png"
     }
   ]
 }
