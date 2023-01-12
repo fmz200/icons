@@ -89,6 +89,10 @@
     {
       "name": "weibotalk",
       "url": "https://raw.githubusercontent.com/fmz200/icons/master/apps/weibotalk.png"
+    },
+    {
+      "name": "macat",
+      "url": "https://raw.githubusercontent.com/fmz200/icons/master/apps/macat.png"
     }
   ]
 }
